@@ -1,0 +1,11 @@
+{
+  "name": "beer-ratings",
+  "description": "beer ratings",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "4.x",
+    "request": "^2.45.0"
+  }
+}
